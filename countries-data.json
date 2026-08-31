@@ -1,0 +1,6214 @@
+[
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "document_type": "passport",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "eye_height_min": 0.45,
+    "eye_height_max": 0.6,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons with signed statement",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 240,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/content/travel/en/passports/how-apply/photo-requirements.html"
+  },
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "document_type": "visa",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "eye_height_min": 0.45,
+    "eye_height_max": 0.6,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons with signed statement",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 240,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html"
+  },
+  {
+    "country_code": "CA",
+    "country_name": "Canada",
+    "document_type": "passport",
+    "size_mm": [
+      50,
+      70
+    ],
+    "size_inches": [
+      1.97,
+      2.76
+    ],
+    "size_px": [
+      1181,
+      1654
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.714,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.44,
+    "face_height_max": 0.51,
+    "face_width_min": 0.4,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons with signed letter",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 240,
+    "file_size_kb_max": 5120,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html"
+  },
+  {
+    "country_code": "CA",
+    "country_name": "Canada",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.68,
+    "face_height_max": 0.8,
+    "face_width_min": 0.4,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 240,
+    "file_size_kb_max": 5120,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-temporary-resident-permit.html"
+  },
+  {
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      827,
+      1063
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "cream_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      220
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      240
+    ],
+    "face_height_min": 0.64,
+    "face_height_max": 0.76,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons with signed declaration",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 10240,
+    "color_space": "sRGB",
+    "recency_months": 1,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.uk/photos-for-passport"
+  },
+  {
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "cream_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      220
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      240
+    ],
+    "face_height_min": 0.64,
+    "face_height_max": 0.76,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 10240,
+    "color_space": "sRGB",
+    "recency_months": 1,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.uk/government/publications/visa-application-photo-guidance"
+  },
+  {
+    "country_code": "IN",
+    "country_name": "India",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons with declaration",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "ears_notes": "Both ears must be clearly visible, not covered by hair",
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://passportindia.gov.in/AppOnlineProject/online/photoSpecs"
+  },
+  {
+    "country_code": "IN",
+    "country_name": "India",
+    "document_type": "visa",
+    "visa_type": "e-Visa",
+    "size_mm": [
+      35,
+      35
+    ],
+    "size_inches": [
+      1.38,
+      1.38
+    ],
+    "size_px": [
+      413,
+      413
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.56,
+    "eye_height_max": 0.69,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "digital_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 10,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://indianvisaonline.gov.in/evisa/PhotoGuidelines"
+  },
+  {
+    "country_code": "CN",
+    "country_name": "China",
+    "document_type": "passport",
+    "size_mm": [
+      33,
+      48
+    ],
+    "size_inches": [
+      1.3,
+      1.89
+    ],
+    "size_px": [
+      390,
+      567
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.688,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.58,
+    "face_height_max": 0.69,
+    "face_width_min": 0.45,
+    "face_width_max": 0.67,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 3,
+    "max_yaw_degrees": 8,
+    "max_pitch_degrees": 8,
+    "max_center_offset_percent": 3,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "teeth_notes": "Mouth must be completely closed, no teeth visible at all",
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons with official letter",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "retouching_notes": "No retouching of any kind - inspected under magnification",
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "ears_notes": "Both ears must be visible",
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "shadow_notes": "No shadows anywhere - background must be perfectly uniform",
+    "source_url": "https://www.mfa.gov.cn/ce/cgny/eng/visa/photo/"
+  },
+  {
+    "country_code": "CN",
+    "country_name": "China",
+    "document_type": "visa",
+    "size_mm": [
+      33,
+      48
+    ],
+    "size_inches": [
+      1.3,
+      1.89
+    ],
+    "size_px": [
+      390,
+      567
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.688,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.58,
+    "face_height_max": 0.69,
+    "face_width_min": 0.45,
+    "face_width_max": 0.67,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 3,
+    "max_yaw_degrees": 8,
+    "max_pitch_degrees": 8,
+    "max_center_offset_percent": 3,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.visaforchina.org/web/guidance/Photo_Requirements.jsp"
+  },
+  {
+    "country_code": "DE",
+    "country_name": "Germany",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      827,
+      1063
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      230,
+      230,
+      230
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.bmi.bund.de/SharedDocs/faqs/EN/themen/passport/photo-requirements/photo-requirements-node.html"
+  },
+  {
+    "country_code": "DE",
+    "country_name": "Germany",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      827,
+      1063
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      230,
+      230,
+      230
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "FR",
+    "country_name": "France",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_beige",
+    "bg_rgb_min": [
+      210,
+      210,
+      200
+    ],
+    "bg_rgb_max": [
+      240,
+      240,
+      220
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://france-visas.gouv.fr/en/web/france-visas/photo-requirements"
+  },
+  {
+    "country_code": "FR",
+    "country_name": "France",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_beige",
+    "bg_rgb_min": [
+      210,
+      210,
+      200
+    ],
+    "bg_rgb_max": [
+      240,
+      240,
+      220
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://france-visas.gouv.fr/en/web/france-visas/photo-requirements"
+  },
+  {
+    "country_code": "AU",
+    "country_name": "Australia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      827,
+      1063
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray",
+    "bg_rgb_min": [
+      220,
+      220,
+      220
+    ],
+    "bg_rgb_max": [
+      245,
+      245,
+      245
+    ],
+    "face_height_min": 0.71,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 70,
+    "file_size_kb_max": 3500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passports.gov.au/passport-photos"
+  },
+  {
+    "country_code": "AU",
+    "country_name": "Australia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      1200,
+      1600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.75,
+    "background_color": "light_gray",
+    "bg_rgb_min": [
+      220,
+      220,
+      220
+    ],
+    "bg_rgb_max": [
+      245,
+      245,
+      245
+    ],
+    "face_height_min": 0.71,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "digital_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 70,
+    "file_size_kb_max": 3500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://immi.homeaffairs.gov.au/help-support/applying-online-or-on-paper/Pages/photo-requirements.aspx"
+  },
+  {
+    "country_code": "JP",
+    "country_name": "Japan",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      827,
+      1063
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.85,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 3,
+    "max_yaw_degrees": 8,
+    "max_pitch_degrees": 8,
+    "max_center_offset_percent": 3,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": false,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "retouching_notes": "No skin retouching or blemish removal",
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "shadow_notes": "ΔE < 2 background uniformity required",
+    "source_url": "https://www.mofa.go.jp/j_info/visit/visa/photo.html"
+  },
+  {
+    "country_code": "JP",
+    "country_name": "Japan",
+    "document_type": "visa",
+    "size_mm": [
+      45,
+      45
+    ],
+    "size_inches": [
+      1.77,
+      1.77
+    ],
+    "size_px": [
+      531,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.85,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 3,
+    "max_yaw_degrees": 8,
+    "max_pitch_degrees": 8,
+    "max_center_offset_percent": 3,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": false,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.mofa.go.jp/j_info/visit/visa/photo.html"
+  },
+  {
+    "country_code": "RU",
+    "country_name": "Russia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "glasses_notes": "Allowed only if eyes clearly visible and no glare",
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "print_finish_notes": "Glossy prints automatically rejected",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.mid.ru/ru/foreign_policy/visa/photo_requirements/"
+  },
+  {
+    "country_code": "RU",
+    "country_name": "Russia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.mid.ru/ru/foreign_policy/visa/photo_requirements/"
+  },
+  {
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.7,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "retouching_notes": "No retouching of any kind including blemishes or wrinkles",
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shoulders_visible": true,
+    "shoulders_notes": "Both shoulders must be fully visible in frame",
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.br/pf/pt-br/assuntos/passaporte/requisitos-para-foto"
+  },
+  {
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.7,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shoulders_visible": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.br/mre/pt-br/assuntos/consulado-e-vencimentos/servicos-consulares/vistos"
+  },
+  {
+    "country_code": "ZA",
+    "country_name": "South Africa",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons with affidavit",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 80,
+    "file_size_kb_max": 250,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dha.gov.za/index.php/contact-us/passport-photo-requirements"
+  },
+  {
+    "country_code": "ZA",
+    "country_name": "South Africa",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 80,
+    "file_size_kb_max": 250,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dha.gov.za/index.php/contact-us/visa-photo-requirements"
+  },
+  {
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      400,
+      514
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 8192,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.ica.gov.sg/apply-passport/passport-photo"
+  },
+  {
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "document_type": "visa",
+    "visa_type": "ICA Digital",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      400,
+      514
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      250,
+      250,
+      250
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "digital_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 8192,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "pixel_exact": true,
+    "pixel_exact_notes": "Digital photo must be exactly 400x514 pixels - no other dimensions accepted",
+    "source_url": "https://www.ica.gov.sg/apply-visa/photo-requirements"
+  },
+  {
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Women: face outline must be fully visible even with hijab",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://icp.gov.ae/en/passport-photo-requirements/"
+  },
+  {
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://icp.gov.ae/en/visa-photo-requirements/"
+  },
+  {
+    "country_code": "TR",
+    "country_name": "Turkey",
+    "document_type": "passport",
+    "size_mm": [
+      50,
+      60
+    ],
+    "size_inches": [
+      1.97,
+      2.36
+    ],
+    "size_px": [
+      591,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.833,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.65,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.nvi.gov.tr/passport-photo-requirements"
+  },
+  {
+    "country_code": "TR",
+    "country_name": "Turkey",
+    "document_type": "visa",
+    "visa_type": "e-Visa",
+    "size_mm": [
+      50,
+      60
+    ],
+    "size_inches": [
+      1.97,
+      2.36
+    ],
+    "size_px": [
+      591,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.833,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.65,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "digital_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.evisa.gov.tr/en/photo-requirements/"
+  },
+  {
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Women: full face must be visible, no makeup, no jewelry",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.my.gov.sa/wps/portal/servicelist/Details?serviceid=112"
+  },
+  {
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "document_type": "visa",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      200,
+      200
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 5,
+    "file_size_kb_max": 100,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://visa.mofa.gov.sa/PhotoRequirements"
+  },
+  {
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 200,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.imigrasi.go.id/en/passport-photo-requirements"
+  },
+  {
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      400,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white_or_red",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "background_alternate": {
+      "color": "red",
+      "rgb_min": [
+        200,
+        0,
+        0
+      ],
+      "rgb_max": [
+        220,
+        50,
+        50
+      ],
+      "notes": "Some visa types (work visa) require red background"
+    },
+    "face_height_min": 0.6,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "digital_only",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.imigrasi.go.id/en/visa-photo-requirements"
+  },
+  {
+    "country_code": "AT",
+    "country_name": "Austria",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_white",
+    "bg_rgb_min": [
+      220,
+      220,
+      220
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 5000,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.bmeia.gv.at/"
+  },
+  {
+    "country_code": "AT",
+    "country_name": "Austria",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_white",
+    "bg_rgb_min": [
+      220,
+      220,
+      220
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 5000,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.bmeia.gv.at/"
+  },
+  {
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_white",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 5000,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://diplomatie.belgium.be/en"
+  },
+  {
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_gray_or_white",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 5000,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://diplomatie.belgium.be/en"
+  },
+  {
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      600,
+      800
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.75,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://immigration.gov.ng/passport-requirements/"
+  },
+  {
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      600,
+      800
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.75,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://immigration.gov.ng/visa-requirements/"
+  },
+  {
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 350,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dgip.gov.pk/"
+  },
+  {
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 350,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dgip.gov.pk/"
+  },
+  {
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dip.gov.bd/"
+  },
+  {
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dip.gov.bd/"
+  },
+  {
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://consular.dfa.gov.ph/passport-requirements"
+  },
+  {
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://consular.dfa.gov.ph/"
+  },
+  {
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gob.mx/sre/acciones-y-programas/pasaportes"
+  },
+  {
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gob.mx/sre/"
+  },
+  {
+    "country_code": "EG",
+    "country_name": "Egypt",
+    "document_type": "passport",
+    "size_mm": [
+      40,
+      60
+    ],
+    "size_inches": [
+      1.57,
+      2.36
+    ],
+    "size_px": [
+      472,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.55,
+    "face_height_max": 0.75,
+    "face_width_min": 0.4,
+    "face_width_max": 0.65,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passport.gov.eg/"
+  },
+  {
+    "country_code": "EG",
+    "country_name": "Egypt",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.55,
+    "face_height_max": 0.75,
+    "face_width_min": 0.4,
+    "face_width_max": 0.65,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passport.gov.eg/"
+  },
+  {
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 200,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passport.in.th/"
+  },
+  {
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 200,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 3,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://thaiembassy.at/en/content_page/item/1154-guide-to-visa-photo-requirements.html"
+  },
+  {
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "document_type": "passport",
+    "size_mm": [
+      40,
+      60
+    ],
+    "size_inches": [
+      1.57,
+      2.36
+    ],
+    "size_px": [
+      472,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.xuatnhapcanh.gov.vn/"
+  },
+  {
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "document_type": "visa",
+    "size_mm": [
+      40,
+      60
+    ],
+    "size_inches": [
+      1.57,
+      2.36
+    ],
+    "size_px": [
+      472,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.xuatnhapcanh.gov.vn/"
+  },
+  {
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.71,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for daily religious clothing",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passport.go.kr/"
+  },
+  {
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.71,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.visa.go.kr/"
+  },
+  {
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      50
+    ],
+    "size_inches": [
+      1.38,
+      1.97
+    ],
+    "size_px": [
+      413,
+      591
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.7,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons (Muslim women)",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.imi.gov.my/"
+  },
+  {
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      50
+    ],
+    "size_inches": [
+      1.38,
+      1.97
+    ],
+    "size_px": [
+      413,
+      591
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.7,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.imi.gov.my/"
+  },
+  {
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 4096,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://nepalpassport.gov.np/"
+  },
+  {
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 4096,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://nepalpassport.gov.np/"
+  },
+  {
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_blue",
+    "bg_rgb_min": [
+      180,
+      210,
+      240
+    ],
+    "bg_rgb_max": [
+      210,
+      235,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.immigration.gov.lk/"
+  },
+  {
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 20,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.eta.gov.lk/"
+  },
+  {
+    "country_code": "PL",
+    "country_name": "Poland",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.pl/web/gov/passport-photo-requirements"
+  },
+  {
+    "country_code": "PL",
+    "country_name": "Poland",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "IT",
+    "country_name": "Italy",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.esteri.it/"
+  },
+  {
+    "country_code": "IT",
+    "country_name": "Italy",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "ES",
+    "country_name": "Spain",
+    "document_type": "passport",
+    "size_mm": [
+      26,
+      32
+    ],
+    "size_inches": [
+      1.02,
+      1.26
+    ],
+    "size_px": [
+      307,
+      378
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.813,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.policia.es/"
+  },
+  {
+    "country_code": "ES",
+    "country_name": "Spain",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      200,
+      200,
+      200
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.58,
+    "face_height_max": 0.67,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.rijksoverheid.nl/"
+  },
+  {
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      200,
+      200,
+      200
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.58,
+    "face_height_max": 0.67,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "NZ",
+    "country_name": "New Zealand",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      900,
+      1200
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "plain_light",
+    "bg_rgb_min": [
+      200,
+      200,
+      200
+    ],
+    "bg_rgb_max": [
+      245,
+      245,
+      245
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.65,
+    "face_width_max": 0.75,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious or medical reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 500,
+    "file_size_kb_max": 3072,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passports.govt.nz/passport-photos/how-to-take-a-passport-photo"
+  },
+  {
+    "country_code": "NZ",
+    "country_name": "New Zealand",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      900,
+      1200
+    ],
+    "dpi": 600,
+    "aspect_ratio": 0.778,
+    "background_color": "plain_light",
+    "bg_rgb_min": [
+      200,
+      200,
+      200
+    ],
+    "bg_rgb_max": [
+      245,
+      245,
+      245
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.65,
+    "face_width_max": 0.75,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 500,
+    "file_size_kb_max": 3072,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.immigration.govt.nz/new-zealand-visas/preparing-a-visa-application/character-and-identity/acceptable-photos/"
+  },
+  {
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_mm_range": {
+      "width": [
+        35,
+        38
+      ],
+      "height": [
+        45,
+        50
+      ]
+    },
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      715,
+      951
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "light_grey_white_or_cream",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 9216,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.dfa.ie/passports/photo-guidelines/"
+  },
+  {
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_mm_range": {
+      "width": [
+        35,
+        38
+      ],
+      "height": [
+        45,
+        50
+      ]
+    },
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.irishimmigration.ie/photograph-rules-for-visa-applications/"
+  },
+  {
+    "country_code": "IL",
+    "country_name": "Israel",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.il/en/departments/population_and_immigration_authority"
+  },
+  {
+    "country_code": "IL",
+    "country_name": "Israel",
+    "document_type": "visa",
+    "size_mm": [
+      50,
+      50
+    ],
+    "size_inches": [
+      1.97,
+      1.97
+    ],
+    "size_px": [
+      591,
+      591
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.4,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.5,
+    "eye_height_max": 0.6,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.gov.il/"
+  },
+  {
+    "country_code": "KE",
+    "country_name": "Kenya",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.immigration.go.ke/"
+  },
+  {
+    "country_code": "KE",
+    "country_name": "Kenya",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.go.ke/"
+  },
+  {
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 1024,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.passport.gov.gh/"
+  },
+  {
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 1024,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://thehague.mfa.gov.gh/VisaApplicationInfo.aspx"
+  },
+  {
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://dmsu.gov.ua/"
+  },
+  {
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://dmsu.gov.ua/"
+  },
+  {
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "document_type": "passport",
+    "size_mm": [
+      30,
+      40
+    ],
+    "size_inches": [
+      1.18,
+      1.57
+    ],
+    "size_px": [
+      354,
+      472
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.75,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.55,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": false,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.cancilleria.gov.co/"
+  },
+  {
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "document_type": "visa",
+    "size_mm": [
+      30,
+      40
+    ],
+    "size_inches": [
+      1.18,
+      1.57
+    ],
+    "size_px": [
+      354,
+      472
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.75,
+    "background_color": "white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.55,
+    "face_height_max": 0.75,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": false,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.cancilleria.gov.co/"
+  },
+  {
+    "country_code": "SE",
+    "country_name": "Sweden",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://polisen.se/en/services-and-permits/passport/"
+  },
+  {
+    "country_code": "SE",
+    "country_name": "Sweden",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.sem.admin.ch/"
+  },
+  {
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "document_type": "visa",
+    "visa_type": "Schengen",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      210,
+      210,
+      210
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 500,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.schengenvisainfo.com/photo-requirements/"
+  },
+  {
+    "country_code": "ET",
+    "country_name": "Ethiopia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.immigration.gov.et/"
+  },
+  {
+    "country_code": "ET",
+    "country_name": "Ethiopia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.evisa.gov.et/"
+  },
+  {
+    "country_code": "MN",
+    "country_name": "Mongolia",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://immigration.gov.mn/"
+  },
+  {
+    "country_code": "MN",
+    "country_name": "Mongolia",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.6,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "eye_height_min": 0.55,
+    "eye_height_max": 0.65,
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "teeth_visible_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "head_covering_notes": "Only for religious reasons",
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 300,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.mn/"
+  },
+  {
+    "country_code": "BH",
+    "country_name": "Bahrain",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.evisa.gov.bh/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://portal.moi.gov.qa/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "OM",
+    "country_name": "Oman",
+    "document_type": "visa",
+    "size_mm": [
+      40,
+      60
+    ],
+    "size_inches": [
+      1.57,
+      2.36
+    ],
+    "size_px": [
+      472,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 512,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.rop.gov.om/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "KW",
+    "country_name": "Kuwait",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "blue_or_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.moi.gov.kw/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "VI",
+    "country_name": "U.S. Virgin Islands",
+    "document_type": "visa",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "PR",
+    "country_name": "Puerto Rico",
+    "document_type": "visa",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "GU",
+    "country_name": "Guam",
+    "document_type": "visa",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "document_type": "visa",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.boca.gov.tw/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "BH",
+    "country_name": "Bahrain",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.evisa.gov.bh/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://portal.moi.gov.qa/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "OM",
+    "country_name": "Oman",
+    "document_type": "passport",
+    "size_mm": [
+      40,
+      60
+    ],
+    "size_inches": [
+      1.57,
+      2.36
+    ],
+    "size_px": [
+      472,
+      709
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.667,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 50,
+    "file_size_kb_max": 512,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.rop.gov.om/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "KW",
+    "country_name": "Kuwait",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "blue_or_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://evisa.moi.gov.kw/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "VI",
+    "country_name": "U.S. Virgin Islands",
+    "document_type": "passport",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "PR",
+    "country_name": "Puerto Rico",
+    "document_type": "passport",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "GU",
+    "country_name": "Guam",
+    "document_type": "passport",
+    "size_mm": [
+      51,
+      51
+    ],
+    "size_inches": [
+      2,
+      2
+    ],
+    "size_px": [
+      600,
+      600
+    ],
+    "dpi": 300,
+    "aspect_ratio": 1,
+    "background_color": "white_or_off_white",
+    "bg_rgb_min": [
+      240,
+      240,
+      240
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.5,
+    "face_height_max": 0.69,
+    "face_width_min": 0.4,
+    "face_width_max": 0.75,
+    "glasses_allowed": false,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": false,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://travel.state.gov/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  },
+  {
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "document_type": "passport",
+    "size_mm": [
+      35,
+      45
+    ],
+    "size_inches": [
+      1.38,
+      1.77
+    ],
+    "size_px": [
+      413,
+      531
+    ],
+    "dpi": 300,
+    "aspect_ratio": 0.778,
+    "background_color": "white_or_light_gray",
+    "bg_rgb_min": [
+      245,
+      245,
+      245
+    ],
+    "bg_rgb_max": [
+      255,
+      255,
+      255
+    ],
+    "face_height_min": 0.7,
+    "face_height_max": 0.8,
+    "face_width_min": 0.45,
+    "face_width_max": 0.7,
+    "glasses_allowed": true,
+    "smile_allowed": false,
+    "eyes_must_open": true,
+    "head_covering_allowed": true,
+    "uniform_allowed": false,
+    "retouching_allowed": false,
+    "print_finish": "matte_or_glossy",
+    "file_format": "JPEG",
+    "file_size_kb_min": 100,
+    "file_size_kb_max": 2048,
+    "color_space": "sRGB",
+    "recency_months": 6,
+    "ears_visible": true,
+    "mouth_closed": true,
+    "shadow_allowed": false,
+    "source_url": "https://www.boca.gov.tw/",
+    "max_tilt_degrees": 5,
+    "max_yaw_degrees": 10,
+    "max_pitch_degrees": 10,
+    "max_center_offset_percent": 5,
+    "teeth_visible_allowed": false
+  }
+]
