@@ -1,12 +1,12 @@
 # visareadynow-passport-specs
 
-Official biometric passport and visa photo size specifications (35x45mm, 2x2 inch, 50x70mm, 33x48mm, 50x50mm) for **190+ countries worldwide**.
+Official biometric passport and visa photo size specifications (35x45mm, 2x2 inch, 50x70mm, 33x48mm, 50x50mm) for **200+ countries worldwide**.
 
 Powered by [VisaReadyNow - Official Passport Photo Generator](https://visareadynow.com).
 
 ## Features
 
-- 🌍 **190+ Countries Supported**: Exact specifications for US, Canada, UK, Australia, Schengen Europe, India, China, Japan, UAE, Brazil, and more.
+- 🌍 **200+ Countries Supported**: Exact specifications for US, Canada, UK, Australia, Schengen Europe, India, China, Japan, UAE, Brazil, and more.
 - 📐 **Dual Document Support**: Query specs for both `passport` and `visa` photos.
 - 📏 **Multi-Unit Output**: Dimensions provided in millimeters (`mm`), pixels (`px`), and inches (`in`).
 - 🎨 **Biometric Rules**: Background color requirements, DPI, file format, max/min file size, glasses policy, and face height ratios.
